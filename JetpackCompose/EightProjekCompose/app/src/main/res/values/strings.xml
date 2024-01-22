@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculatorTip</string>
+    <string name="calculate_tip">Hitung Tip</string>
+    <string name="bill_amount">Total Tagihan Yang Harus Dibayar</string>
+    <string name="tip_percentage">Persen Tip</string>
+    <string name="round_up_tip">Mau Kasih Tip?</string>
+    <string name="tip_amount">Jumlah Tip: %s</string>
+</resources>
